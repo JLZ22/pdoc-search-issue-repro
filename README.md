@@ -1,6 +1,4 @@
-# pdoc seearch issue repro
-
-- reproducing an issue with pdoc search
+# pdoc search issue repro
 
 ## System Specs
 
